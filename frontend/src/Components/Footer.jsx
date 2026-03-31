@@ -8,7 +8,7 @@ const Footer = () => {
       
       <div className="absolute top-0 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[90%] max-w-5xl bg-[#BB2339] border border-white/10 p-8 md:p-14 text-center rounded-[20px] shadow-2xl">
         <div className="flex flex-col items-center mb-4">
-          <p className="font-semibold tracking-widest uppercase text-sm">Newsletter</p>
+          <p className="font-semibold tracking-widest  text-4xl">Powered by Akhmaddev</p>
         </div>
         
         <h2 className="text-3xl md:text-5xl font-bold mb-6 capitalize leading-tight">
